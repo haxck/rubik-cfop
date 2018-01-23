@@ -1,0 +1,538 @@
+{
+    "Cross": [
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image001.gif",
+            "formula": "bala"
+        }
+    ],
+    "F2L": [
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f1.png",
+            "formula": "(R U'U' R' U)2 y'(R' U' R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f2.png",
+            "formula": "(U R U' R' U') y'(R' U R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f3.png",
+            "formula": "(R' F' RU)(R U' R' F) U'(F'RUR'U')(R'FR)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f4.png",
+            "formula": "(R U R' U')(R U'U' R' U')(R U R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f5.png",
+            "formula": "(R U' R U)y(R U' R' F2)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f6.png",
+            "formula": "y'(R' U' R U)(R' U' R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f7.png",
+            "formula": "(R U' R' U)(R U' R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f8.png",
+            "formula": "(RU'R'U)(R U'U' R'U)(RU'R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f9.png",
+            "formula": "R2 y(R U R' U')y'(R' U R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f10.png",
+            "formula": "y' (R' U)(R U')(R' U R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f11.png",
+            "formula": "(R U R' U' )(R U R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f12.png",
+            "formula": "(R U R' U')2 (R U R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f13.png",
+            "formula": "(R U' R') y’ (R' U2 R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f14.png",
+            "formula": "y' (R' U2)(R U R' U')R"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f15.png",
+            "formula": "y' U'(R' U2)(R U' R' U)R"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f16.png",
+            "formula": "y'(R' U R U'U')(R' U' R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f17.png",
+            "formula": "(R U R'U)(R U'U' R'd)(R'U R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f18.png",
+            "formula": "(R U R')U2(R U R' U')(R U R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f19.png",
+            "formula": "(R U' R' U2)(R U R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f20.png",
+            "formula": "U(R U’U’)(R' U R U' )R'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f21.png",
+            "formula": "(R U’U’)(R' U' R U)R'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f22.png",
+            "formula": "U'(R U')(R' U2)(R U' R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f23.png",
+            "formula": "U' (R U R') d (R' U' R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f24.png",
+            "formula": "d (R' U R U')(R' U' R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f25.png",
+            "formula": "y' (R' U' R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f26.png",
+            "formula": " (d R' U' R U')(R' U' R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f27.png",
+            "formula": "y’ (R U’U’)R’2 U’ R2 U’ R’ U'(R U'U' R' d)(R'U'R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f28.png",
+            "formula": "y' (R' U)(R d' U’)(R U R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f29.png",
+            "formula": "U' (R U’U')(R' U2)(R U' R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f30.png",
+            "formula": "U'(R U R' U')(R U'U' R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f31.png",
+            "formula": "U R U' R'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f32.png",
+            "formula": "U' (R U'U’ R' U)(R U R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f33.png",
+            "formula": "d (R' U' R) d' (R U R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f34.png",
+            "formula": "y' U' (R' U R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f35.png",
+            "formula": "(d R' U' R U'U')(R' U R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f36.png",
+            "formula": "d (R' U2)(R U'U’)(R' U R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f37.png",
+            "formula": "(R U' R' U)(d R' U' R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f38.png",
+            "formula": "(R U')(R' U)(R U')(R' U2)(R U' R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f39.png",
+            "formula": "U'(R U R' U)(R U R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f40.png",
+            "formula": "(R U R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/f41.png",
+            "formula": "U' (R U' R' U)(R U R')"
+        },
+    ],
+    "OLL": [
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image001.gif",
+            "formula": "(R U'U') (R2' F R F') U2 (R' F R F')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image002.gif",
+            "formula": "(F R U R' U' F') (f R U R' U' f')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image003.gif",
+            "formula": "f(R U R' U')f' U' F(R U R' U')F'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image004.gif",
+            "formula": "f(R U R' U')y x(R’ F)(R U R' U')F'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image005.gif",
+            "formula": "(r' U2) (R U R'U) r"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image006.gif",
+            "formula": "(r U'U') (R' U' R U' r')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image007.gif",
+            "formula": "r U R' U R U'U' r'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image008.gif",
+            "formula": "r' U' R U' R' U2 r"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image009.gif",
+            "formula": "(R' U' R) y' x' (R U')(R'F) (R U R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image010.gif",
+            "formula": "(R U R'U)(R'F R F') (RU'U'R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image011.gif",
+            "formula": "r'(R2 U R' U)(R U'U' R' U) (r R') "
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image012.gif",
+            "formula": "(r R'2 U' R U')(R' U2 R U' R)r'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image013.gif",
+            "formula": "(r U' r' U')(r U r') (F' U F)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image014.gif",
+            "formula": "R' F R U R' F'R (F U' F')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image015.gif",
+            "formula": "(r' U' r) (R'U'R U) (r' U r) "
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image016.gif",
+            "formula": "(r U r') (R U R' U') (r U' r')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image017.jpg",
+            "formula": "F(U R' U' F') U (F R2 U R'U'F')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image018.gif",
+            "formula": "F (R U R' d)(R' U2) (R' F R F')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image019.gif",
+            "formula": "(r' R U)(R U R' U' r) (R'2 F R F')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image020.gif",
+            "formula": "r'(R U) (R U R'U' r2)(R2'U) (R U') r'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image021.gif",
+            "formula": "(R U'U') (R' U' R U R' U') (R U' R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image022.gif",
+            "formula": "R U'U' (R'2 U') (R2 U') R'2 U' U'R"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image023.gif",
+            "formula": "(R2 D') (R U'U') (R' D) (R U'U' R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image024.gif",
+            "formula": "(r U R' U') (r' F R F')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image025.gif",
+            "formula": "F'(r U R' U') (r' F R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image026.gif",
+            "formula": "R U' U' R' U' R U' R'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image027.gif",
+            "formula": "R' U2 R U R' U R"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image028.gif",
+            "formula": "(r U R' U') (r' R U) (R U' R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image029.gif",
+            "formula": "(r U R' U')(R r'2 F R F') (r R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image030.gif",
+            "formula": "(R2 U R' B')(RU') (R2' U) (R B R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image031.gif",
+            "formula": "(r' F' U F) (L F' L' U' r)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image032.gif",
+            "formula": "(R U)(B' U')(R' U R B R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image033.gif",
+            "formula": "(R U R' U') (R' F R F')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image034.gif",
+            "formula": "(R'U'R U) y(r U R' U')r' R"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image035.gif",
+            "formula": "R U'U'R2' F R F'(R U'U'R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image036.gif",
+            "formula": "R'U'R U' R'U R U l U'R'U"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image037.gif",
+            "formula": "F (R U' R'U'R U) (R' F')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image038.gif",
+            "formula": "(R U R'U) (RU'R'U') (R'F R F')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image039.gif",
+            "formula": "(r U' r' U' r)y(R U R' f')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image040.gif",
+            "formula": "(R' F R U R'U') (F' U R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image041.gif",
+            "formula": "R U' R' U2 R U y R U' R' U' F'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image042.jpg",
+            "formula": "(R'U R U'U'R'U')(F'U)(F U R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image043.gif",
+            "formula": "(B' U') (R' U R B)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image044.gif",
+            "formula": "f (R U R' U')f' "
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image045.gif",
+            "formula": "F (R U R' U') F'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image046.gif",
+            "formula": "(R' U') R' F R F' (U R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image047.gif",
+            "formula": "B'(R' U' R U)2 B"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image048.gif",
+            "formula": "F (R U R' U')2 F'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image049.gif",
+            "formula": "R B'(R2 F)(R2 B) R2 F' R"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image050.gif",
+            "formula": "L'B (L2 F')(L2B') L2 F L'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image051.gif",
+            "formula": "f (R U R' U')2 f'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image052.gif",
+            "formula": "R'U' R U' R' d R' U l U"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image053.gif",
+            "formula": "(r' U2) (R U R'U') (R U R'U) r"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image054.gif",
+            "formula": "(r U'U') (R' U' R U R' U') (R U' r')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image055.gif",
+            "formula": "(R U'U') (R'2 U') R U' R'U2 (F R F')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image056.gif",
+            "formula": "F (R U R'U')(R F')(r U R'U')r'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image057.gif",
+            "formula": "(R U R' U' r)(R' U) (R U' r')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image058.gif",
+            "formula": "(r' R2)y (R U R' U') y' (R' U R')r"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image059.gif",
+            "formula": "b' U' (R' U R U' R' U R)b"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image060.gif",
+            "formula": "(L U L') y' (R'F R U') (R' F ' R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image061.gif",
+            "formula": "(l' U2) (L U L' U l)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image062.gif",
+            "formula": "l U2 L' U' L U' l'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image063.gif",
+            "formula": "(r' R2 U R' U)(r U2 )(r' U r R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image064.gif",
+            "formula": "F (R U R' U') y L'  F (R U R' U') F'"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image065.gif",
+            "formula": "l U' R' F' R U l' y R' U R "
+        },
+    ],
+    "PLL": [
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image066.gif",
+            "formula": "(R U' R)(U R U R)(U' R' U' R2)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image067.gif",
+            "formula": "(R2' U)(R U R' U')(R' U')(R' U R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image068.gif",
+            "formula": "M2 U M2 U2 M2 U M2"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image069.gif",
+            "formula": "(U R'U')(R U'R)(U R U')(R'U R U)(R2 U')(R'U)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image070.gif",
+            "formula": "(R2 U')(R' U' R U R U)(R U 'R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image071.gif",
+            "formula": "(R' U R' U')(R' U')(R' U)(R U R'2)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image072.gif",
+            "formula": "x' R2 D2(R' U' R)D2(R' U R') "
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image073.gif",
+            "formula": "x'(R U' R)z'(R'2 U' L U R2' x y R2)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image074.gif",
+            "formula": "x'(R U' R' D)(R U R')u2'(R' U R)D(R' U' R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image075.gif",
+            "formula": "(R U R' U')(R' F)(R2 U' R' U')(R U R' F')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image076.gif",
+            "formula": "U'(R'U R U' R'2 b')x(R'U R)y'(R U R' U' R2)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image077.gif",
+            "formula": "(R' U R' U')yx2(R' U R' U'R2)xz'(R'U'R U R)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image078.gif",
+            "formula": "F(R U'R' U')(R U R' F')(R U R' U')(R' F R F')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image079.gif",
+            "formula": "z(R U R' U' R U ' U')(x' z')(R U R'U') x(U'R'U R U 'U')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image080.gif",
+            "formula": "z(U' R U' l')z(R' U R'U')(l R) (U' R' U R U)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image081.gif",
+            "formula": "z(U' R D')(R2 U R' U' R2 U)z'(R U')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image082.gif",
+            "formula": "(R U R'F')(R U R'U')(R'F R2 U'R'U')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image083.gif",
+            "formula": "(R' U2)(R U'U')(R' F R U R' U')(R'F' R2 U')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image084.gif",
+            "formula": "(R U'U')(R' U2)(R B' R' U')(R U R B R2' U)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image085.gif",
+            "formula": "(R2' u' R U' R)(U R' u)(R2 f R' f')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image086.gif",
+            "formula": "(R U R')y'(R2' u' R U')(R' U R' u R2)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image087.gif",
+            "formula": "(R2 u)(R' U R' U')(R u') (R2' F' U F)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image088.gif",
+            "formula": "(R' d' F)(R2 u)(R' U)(R U' R u' R2)"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image089.gif",
+            "formula": "z(R' U R')z'(R U2 L' U R') z(U R')z'(R U2 L' U R')"
+        },
+        {
+            "img": "http://p2ybl4qst.bkt.clouddn.com/image090.gif",
+            "formula": "z(U'R D')(R2 U R'U')z'(R U R') z(R2 U R')z'(R U')"
+        },
+    ]
+}
