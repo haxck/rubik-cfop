@@ -1,14 +1,18 @@
 import React from 'react';
-import { StyleSheet, Text, View, Button } from 'react-native';
+import { WebView } from 'react-native';
 
-export default class F2LScreen extends React.Component {
+
+export default class CrossScreen extends React.Component {
     static navigationOptions = {
         title: 'Cross'
-      };
-      render() {
-        const {navigate} = this.props.navigation
+    };
+
+    render() {
         return (
-          <Text>Cross</Text>
-        )
-      }
+            <WebView
+                source={{ uri: "http://www.rubik.com.cn/cfopcross.htm" }}
+            />
+        );
+    }
 }
+
